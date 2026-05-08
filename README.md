@@ -42,3 +42,5 @@ management and predictive pursuit control.
 - ROS2 Jazzy
 - Ubuntu 24.04
 - C++17
+  
+[Udemy Certificate](certificate.pdf)
