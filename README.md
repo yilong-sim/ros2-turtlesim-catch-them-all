@@ -15,6 +15,8 @@ Three nodes communicating via topics and services:
 - `turtle_controller` — P controller to chase and catch target turtles  
 - `turtlesim_node` — built-in ROS2 simulator
 
+![ROS2 Node Graph](media/rqt_graph.png)
+
 ## Key Implementation Details
 - Proportional controller with angle wrapping for smooth pursuit
 - Closest-turtle selection via runtime parameter
